@@ -1,4 +1,4 @@
-import logo from "@/assets/wilmila-logo.jpg";
+import logo from "@/assets/wilmila-logo.png";
 
 const Footer = () => (
   <footer className="border-t border-border py-10 bg-background">

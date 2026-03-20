@@ -4,6 +4,7 @@ import AboutSection from "@/components/AboutSection";
 import MethodologySection from "@/components/MethodologySection";
 import ServicesSection from "@/components/ServicesSection";
 import TechNutritionSection from "@/components/TechNutritionSection";
+import BMICalculator from "@/components/BMICalculator";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import BlogSection from "@/components/BlogSection";
 import ContactSection from "@/components/ContactSection";

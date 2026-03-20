@@ -18,6 +18,7 @@ const Index = () => (
     <MethodologySection />
     <ServicesSection />
     <TechNutritionSection />
+    <BMICalculator />
     <TestimonialsSection />
     <BlogSection />
     <ContactSection />
